@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes 2 input and Gives the binary output of Sum and Carry
 
 ## How to test
 
-Explain how to use your project
+Sum = a^b
+Carry = a&b
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None at the moment
